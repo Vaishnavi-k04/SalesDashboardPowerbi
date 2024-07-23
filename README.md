@@ -10,7 +10,7 @@ This project involves the development of a comprehensive Sales Dashboard using P
 
 ## Technology Stack
 - **Power BI Dashboards**
-- **DAX (Intermediate Level)**
+- **DAX**
 - **Power Query**
 
 ## Objective
